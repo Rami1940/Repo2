@@ -6,6 +6,6 @@ public class HelloWorld {
         if (x + y > 4) {
             System.out.println("x + y is bigger than 4");
         } else {
-            System.out.println(" x + y is NOT bigger than 4");
+            System.out.println(" x + y is NOT bigger than 10");
     }
 }
